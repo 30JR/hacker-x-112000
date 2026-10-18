@@ -1,16 +1,157 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a1f0a,100:000000&height=260&section=header&text=MR%20X&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=40&stroke=00ff41&strokeWidth=1&desc=Ethical%20Hacker%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=65&descSize=18" alt="banner" />
 
-<!--
-**hacker-x-112000/hacker-x-112000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td align="center" width="220">
+  <img src="https://wsrv.nl/?url=https://github.com/hacker-x-112000.png&w=200&h=200&fit=cover&mask=circle&filt=greyscale" width="180" alt="MR X" />
+</td>
+<td align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF41&vCenter=true&width=520&height=50&lines=root%40mrx%3A~%24+whoami;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player;Full-Stack+Engineer+%E2%80%94+Web+%2B+Mobile+%2B+Cloud;Breaking+things+to+make+them+unbreakable;Stay+curious.+Stay+ethical.)](https://github.com/hacker-x-112000)
+
+<img src="https://komarev.com/ghpvc/?username=hacker-x-112000&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=000000" alt="views" />
+<img src="https://img.shields.io/github/followers/hacker-x-112000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00ff41" alt="followers" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+## 💀 `~/about`
+
+```bash
+root@mrx:~$ whoami
+MR X
+
+root@mrx:~$ cat profile.txt
+name       : MR X
+handle     : hacker-x-112000
+role       : Ethical Hacker & Full-Stack Software Engineer
+focus      : Web security, pentesting, secure architecture, CTFs
+build      : React · TypeScript · Node.js · Supabase · Flutter
+cloud      : Vercel · Cloudflare Pages/Workers · Docker · Linux
+payments   : Stripe
+status     : [ONLINE] -- open to collaborate on security & software projects
+motto      : "Security is not a product, it's a process."
+
+root@mrx:~$ echo "reach me -> X@X.com"
+reach me -> X@X.com
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+## 🌐 `~/connect`
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+  <a href="mailto:X@X.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff41" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41" /></a>
+  <a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=00ff41" /></a>
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41" /></a>
+  <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+## 🧰 `~/skills`
+
+### 🔓 Security & Hacking
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Web%20Pentesting-000000?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logoColor=00ff41" />
+</p>
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,rust,go,js,ts,java,dart,php,sql&perline=12&theme=dark" />
+</p>
+
+### 🌐 Frontend & Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,vite,redux,flutter,androidstudio&perline=10&theme=dark" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,supabase,postgres,mysql,mongodb,redis,firebase,prisma&perline=12&theme=dark" />
+</p>
+
+### ☁️ DevOps, Cloud & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,aws,cloudflare,vercel,git,github,githubactions,vscode,vim,postman,figma&perline=15&theme=dark" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+## 📊 `~/stats`
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hacker-x-112000&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&custom_title=MR%20X%27s%20GitHub%20Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-x-112000&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&custom_title=Top%20Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hacker-x-112000&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hacker-x-112000&theme=matrix&no-frame=true&no-bg=true&row=7&column=7&margin-w=10" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+## 📈 `~/activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-x-112000&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
+</p>
+
+## 🐍 `~/contributions`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacker-x-112000/hacker-x-112000/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacker-x-112000/hacker-x-112000/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/hacker-x-112000/hacker-x-112000/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+## 🎯 `~/currently`
+
+```bash
+[+] Hunting bugs and grinding CTFs on HackTheBox / TryHackMe
+[+] Building secure full-stack apps (React + TypeScript + Supabase)
+[+] Shipping Flutter apps
+[+] Learning: reverse engineering, exploit dev, cloud security
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=140&section=footer&text=Stay%20curious.%20Stay%20ethical.&fontSize=22&fontColor=00ff41&fontAlignY=70" width="100%" />
+</p>
+
+<p align="center">
+  <b>why following the rules when you make it 🐱‍👤</b>
+</p>
