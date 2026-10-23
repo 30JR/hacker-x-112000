@@ -11,7 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF41&vCenter=true&width=520&height=50&lines=root%40mrx%3A~%24+whoami;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player;Full-Stack+Engineer+%E2%80%94+Web+%2B+Mobile+%2B+Cloud;Breaking+things+to+make+them+unbreakable;Stay+curious.+Stay+ethical.)](https://github.com/hacker-x-112000)
 
-<img src="https://komarev.com/ghpvc/?username=hacker-x-112000&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=000000" alt="views" />
 <img src="https://img.shields.io/github/followers/hacker-x-112000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00ff41" alt="followers" />
 
 </td>
@@ -115,17 +114,7 @@ reach me -> X@X.com
   <img src="https://streak-stats.demolab.com/?user=hacker-x-112000&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hacker-x-112000&theme=matrix&no-frame=true&no-bg=true&row=7&column=7&margin-w=10" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-## 📈 `~/activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-x-112000&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
-</p>
 
 ## 🐍 `~/contributions`
 
