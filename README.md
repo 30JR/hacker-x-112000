@@ -28,7 +28,7 @@ root@mrx:~$ whoami
 MR X
 
 root@mrx:~$ cat profile.txt
-name       : MR X
+name       : 3GR786
 handle     : hacker-x-112000
 role       : Ethical Hacker & Full-Stack Software Engineer
 focus      : Web security, pentesting, secure architecture, CTFs
